@@ -8,7 +8,7 @@ using namespace std;
 
 template <class T>
 
-class clsDblLinkedList
+class clsMyDblLinkedList
 {
 protected:
     int _Size = 0;
@@ -313,4 +313,5 @@ public:
     }
 
 };
+
 
