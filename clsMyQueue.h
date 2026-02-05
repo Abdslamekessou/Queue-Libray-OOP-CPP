@@ -10,7 +10,7 @@ class clsMyQueue
 {
 
 protected:
-    clsDblLinkedList<T> _MyList;
+    clsMyDblLinkedList<T> _MyList;
 
 public:
     
@@ -86,4 +86,5 @@ public:
         _MyList.Clear();
     }
 };
+
 
