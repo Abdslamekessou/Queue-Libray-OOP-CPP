@@ -48,7 +48,7 @@ int main()
     MyQueue.Print();
 
     MyQueue.InsertAtBack(2000);
-    cout << "\n\nQueue after inserting 1000 at back : \n";
+    cout << "\n\nQueue after inserting 2000 at back : \n";
     MyQueue.Print();
 
 
@@ -57,3 +57,4 @@ int main()
     MyQueue.Print();
 
 }
+
