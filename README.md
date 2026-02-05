@@ -51,9 +51,9 @@ Print queue contents in order
 # 🖥️ Console Output
 
 Clear and readable output of queue contents, for example:
-
+```
 1  2  3  4  5
-
+```
 
 All operations are tested step-by-step through a console-based driver program.
 
